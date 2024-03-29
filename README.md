@@ -41,5 +41,5 @@
       - [ ] Model, View, & Controller 
     - [ ] ORM
   - [ ] Databases
-  - [ ] GitHub
+  - [x] GitHub
   - [x] Docker
