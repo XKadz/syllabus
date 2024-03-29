@@ -1,6 +1,6 @@
 # Operation 👩‍💻 💉
 
-- [ ] Introduction to Python
+- [x] Introduction to Python
   - [ ] Control Flow
     - [ ] if
     - [ ] for
@@ -42,4 +42,4 @@
     - [ ] ORM
   - [ ] Databases
   - [ ] GitHub
-  - [ ] Docker
+  - [x] Docker
