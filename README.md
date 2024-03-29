@@ -1,4 +1,4 @@
-# Operation 👩‍💻 💉
+# Operation 
 
 - [x] Introduction to Python
   - [ ] Control Flow
